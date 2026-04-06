@@ -1,6 +1,6 @@
 # mlong32-web-project
 
-## [Project 2 - HTML Foundation Page
+## Project 2 - HTML Foundation Page
 
 ## 1. Theme Description
 For this project, I created a webpage based on the movie, *Interstellar*. The site focuses on the film's themes such as space exploration, time dilation, and the survival of humanity. I chose this theme because the movie combines science and emotion in a unique way, making it interesting to present through a webpage.]
