@@ -1,0 +1,64 @@
+/* Background */
+body {
+    background: linear-gradient(to bottom, #000000, #0b0f2a);
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Headings */
+h1 {
+    color: #ffffff;
+    font-size: 36px;
+}
+
+h2 {
+    color: #ccccff;
+    font-size: 24px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Links */
+a {
+    color: #66ccff;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+a {
+    margin-right: 12px;
+}
+
+/* List */
+ul {
+    padding-left: 20px;
+}
+
+/* Image */
+img {
+    width: 300px;
+    margin-top: 10px;
+}
+
+/* Spacing */
+h2, p, ul {
+    margin-bottom: 15px;
+}
