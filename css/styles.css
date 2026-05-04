@@ -62,3 +62,24 @@ img {
 h2, p, ul {
     margin-bottom: 15px;
 }
+
+#message {
+    margin-top: 15px;
+    font-size: 18px;
+    color: #66ccff;
+}
+
+input, button {
+    padding: 8px;
+    margin-top: 10px;
+}
+
+@media (max-width: 600px) {
+    body {
+        margin: 10px;
+    }
+
+    img {
+        width: 100%;
+    }
+}

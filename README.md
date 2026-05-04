@@ -10,5 +10,3 @@ While creating this webpage, I learned how to build a basic HTML structure using
 
 ## 3. Challenges Faced
 One of the main challenges I faced was understanding file paths and linking pages correctly between folders. I also had to troubleshoot small syntax issues, such as incorrect slashes in links and making sure all tags were properly opened and closed. Another challenge was working without CSS, which limited styling options and required more creativity using only HTML. 
-
-TES
