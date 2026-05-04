@@ -1,7 +1,7 @@
 // Grab elements
 const form = document.getElementById("userForm");
 const input = document.getElementById("username");
-const message = document.getElementById??("message");
+const message = document.getElementById("message");
 
 // Event Listener
 form.addEventListener("submit", function(event) {
